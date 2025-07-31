@@ -1,0 +1,52 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+input[type="file"]::file-selector-button{
+  background: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;
+  color:white;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+body{
+  background: black;
+  color: white;
+}
+.d-behavior{
+  background-color: #1f1f1f;
+}
+.d-behavior:hover{
+  background-color: #2f2f2f !important;
+}
+input,button{
+  outline: none;
+  border: none;
+}
+.sbar{
+  padding: 0.8rem 1rem;
+}
+.glow{
+  color:#9a9a9a;
+}
+.glow:hover{
+  color: #fff;
+}
+small{
+  color: #9a9a9a;
+}
+.song{
+  padding: 10px 12px;
+  border-radius: 5px;
+  background-color: #1d1c1c;
+}
+.song:hover{
+  background-color: #2f2f2f;
+
+}
+h6{
+  font-size: 1vw !important;
+}

@@ -1,0 +1,5 @@
+1. make user playlist show 15 minutes
+2. make playlist songs display component 30 minutes
+3. user can upload or add song to playlist 30 minutes
+4. user can search for playlist or song according to search keywords 30 minutes
+5. user can play any song and they will be played in a queue 30 minutes
