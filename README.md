@@ -35,8 +35,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 Acknowledgments
 
-- Spotify for providing the Web API
 - ReactJS for the frontend framework
-- Node.js for the backend framework (if applicable)
+- Node.js for the backend framework
 
-Feel free to customize this README to fit your project's specific needs. Good luck with your Spotify clone project ¹!
